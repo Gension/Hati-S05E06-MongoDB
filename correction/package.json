@@ -1,0 +1,18 @@
+{
+  "name": "correction",
+  "version": "1.0.0",
+  "description": "Créer une API pour gérer une Todo List, en utilisant MariaDB comme base de données, Sequelize comme ORM, et Express pour le framework backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mariadb": "^3.2.1",
+    "sequelize": "^6.33.0"
+  }
+}
